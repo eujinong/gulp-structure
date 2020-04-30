@@ -1,0 +1,1 @@
+{"version":3,"sources":["media.scss"],"names":[],"mappings":"AAAA,qCACE,MACE,UAAA,SAGF,YAEI,OAAA,MACA,gBAAA","file":"media.min.css","sourcesContent":["@media screen and (max-width: 1855px) {\r\n  :root {\r\n    font-size: 13.333px;\r\n  }\r\n\r\n  #home {\r\n    .hero {\r\n      height: 76rem;\r\n      background-size: cover;\r\n    }\r\n  }\r\n}"]}
